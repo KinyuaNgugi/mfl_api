@@ -927,13 +927,7 @@
         "contact_type": {
             "name": "EMAIL"
         }
-    },
-    {
-        "contact": "charlocky@yahoo.com",
-        "contact_type": {
-            "name": "EMAIL"
-        }
-    },
+    },    
     {
         "contact": "isaiahtoroitich@yahoo.com",
         "contact_type": {
